@@ -3,7 +3,7 @@
 - 🌱 I’m currently a learner.
 - 👩‍💻 I am a Web Development Enthusiast.
 
-- ![](https://komarev.com/ghpvc/?username=ssuruchi)
+![](https://komarev.com/ghpvc/?username=ssuruchi)
 
 <!--
 **ssuruchi/ssuruchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
