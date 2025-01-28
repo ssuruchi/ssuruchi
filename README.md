@@ -2,7 +2,7 @@
 - I am Suruchi Sharma
 - 🌱 I’m currently a learner.
 - 👩‍💻 I am a Web Development Enthusiast.
-
+- Know more about me - https://suruchi-portfolio.vercel.app/
 ![](https://komarev.com/ghpvc/?username=ssuruchi)
 
 <!--
