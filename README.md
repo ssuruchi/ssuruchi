@@ -1,7 +1,7 @@
 ### Hello there 👋
 - I am Suruchi Sharma
 - 🌱 I have passion for building meaningful solutions.
-- 👩‍💻 I am into Web Development, Data Science, Data Analytics and hahve explored Cloud and Networks
+- 👩‍💻 I am into Web Development, Data Science, Data Analytics and hahve explored Cloud and Networks.
 - Know more about me - https://suruchi-portfolio.vercel.app/
   
 <!--![](https://komarev.com/ghpvc/?username=ssuruchi)
