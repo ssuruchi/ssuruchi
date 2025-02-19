@@ -3,6 +3,7 @@
 - 🌱 I have passion for building meaningful solutions.
 - 👩‍💻 I am into Web Development, Data Science, Data Analytics and hahve explored Cloud and Networks.
 - Know more about me - https://suruchi-portfolio.vercel.app/
+- - 👯 I’m looking to collaborate on open source projects
   
 <!--![](https://komarev.com/ghpvc/?username=ssuruchi)
 
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
