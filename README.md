@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hii there 👋
 - I am Suruchi Sharma
 - 🌱 I have passion for building meaningful solutions.
 - 👩‍💻 I am into Web Development, Data Science, Data Analytics and hahve explored Cloud and Networks.
