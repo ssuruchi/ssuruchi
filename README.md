@@ -1,7 +1,7 @@
 ### Hii there 👋
 - I am Suruchi Sharma
 - 🌱 I have passion for building meaningful solutions.
-- 👩‍💻 I am into Full Stack Development, Data Science, Data Analytics and hahve explored Cloud and Networks.
+- 👩‍💻 I am into Full Stack Development and Data Science.
 - Wanna know more about me - https://suruchi-portfolio.vercel.app/
 - 👯 I’m looking to collaborate on open source projects.
   
