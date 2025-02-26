@@ -2,7 +2,7 @@
 - I am Suruchi Sharma
 - 🌱 I have passion for building meaningful solutions.
 - 👩‍💻 I am into Full Stack Development, Data Science, Data Analytics and hahve explored Cloud and Networks.
-- Want to know more about me - https://suruchi-portfolio.vercel.app/
+- Wanna know more about me - https://suruchi-portfolio.vercel.app/
 - 👯 I’m looking to collaborate on open source projects.
   
 <!--![](https://komarev.com/ghpvc/?username=ssuruchi)
